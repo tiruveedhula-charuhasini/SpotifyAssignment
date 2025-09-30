@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		DCF2A61C2E0A725F009651C0 /* charzSpotify */ = {
+		83803CE62E8BCB860099F01D /* Screens */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = charzSpotify;
+			path = Screens;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		DCF2A6112E0A725F009651C0 = {
 			isa = PBXGroup;
 			children = (
-				DCF2A61C2E0A725F009651C0 /* charzSpotify */,
+				83803CE62E8BCB860099F01D /* Screens */,
 				DCF2A61B2E0A725F009651C0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				DCF2A61C2E0A725F009651C0 /* charzSpotify */,
+				83803CE62E8BCB860099F01D /* Screens */,
 			);
 			name = charzSpotify;
 			packageProductDependencies = (
